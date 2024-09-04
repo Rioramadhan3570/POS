@@ -7,8 +7,8 @@
     <title>User</title>
 </head>
 <body>
-    <h1>Ini adalah Informasi User</h1>
+    <h1>Ini Adalah Informasi User</h1>
     <h2>User : {{$id}}</h2>
-    <h2>nama : {{$nama}}</h2>
+    <h2>Nama : {{$nama}}</h2>
 </body>
 </html>
