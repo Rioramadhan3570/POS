@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Point of Sales</h1>
-    <p>Ini Adalah Halaman Transaksi Dari PT. OIR.</p>
+    <p>Ini Adalah Halaman Penjualan Dari PT. OIR.</p>
 </body>
 </html>
